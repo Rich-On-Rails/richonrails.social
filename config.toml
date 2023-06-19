@@ -13,7 +13,7 @@ disableKinds = ["taxonomy", "term"]
   # headline = "An awesome person"
   # image = "img/author.jpg"  # path relative to static directory
 
-  links = [
+  links = {
     # { email = "mailto:hello@your_domain.com" },
     { link = "https://richonrails.blog/" },
     { link = { href = "https://richonrails.photos/", text = "Photo Blog" } }
@@ -53,7 +53,7 @@ disableKinds = ["taxonomy", "term"]
     { twitter = "https://twitter.com/richonrails" },
     # { whatsapp = "https://wa.me/phone-number" },
     { youtube = "https://youtube.com/rich_on_rails" },
-  ]
+  }
 
 [module]
   [module.hugoVersion]
