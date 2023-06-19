@@ -15,7 +15,7 @@ disableKinds = ["taxonomy", "term"]
 
   links = [
     # { email = "mailto:hello@your_domain.com" },
-     { link = "https://richonrails.blog/" },
+    { link = "https://richonrails.blog/" },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
     # { codepen = "https://codepen.io/username" },
@@ -33,7 +33,7 @@ disableKinds = ["taxonomy", "term"]
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
     # { linkedin = "https://linkedin.com/in/username" },
-     { mastodon = "https://mastodon.instance/@richonrails" },
+     { mastodon = "https://mastodon.social/@richonrails" },
     # { medium = "https://medium.com/username" },
     # { microsoft = "https://www.microsoft.com/" },
     # { patreon = "https://www.patreon.com/username" },
