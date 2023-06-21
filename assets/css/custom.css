@@ -1,0 +1,12 @@
+body {
+    background-color: #4C3957;
+}
+header h1, h2 {
+    color: #fff;
+}
+header h2 {
+    color: #fff !important;
+}
+footer p {
+    color: #fff !important;
+}
