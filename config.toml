@@ -16,6 +16,7 @@ disableKinds = ["taxonomy", "term"]
   links = [
     # { email = "mailto:hello@your_domain.com" },
     { link = { href = "https://richonrails.blog/", text = "The Blog"} },
+    { link = { href = "https://richonrails.show", text = "Podcast" } },
     { link = { href = "https://richonrails.photos/", text = "Photo Blog" } },
     # { amazon = "https://www.amazon.com/hz/wishlist/ls/wishlist-id" },
     # { apple = "https://www.apple.com" },
@@ -23,7 +24,7 @@ disableKinds = ["taxonomy", "term"]
     # { dev = "https://dev.to/username" },
     # { discord = "https://discord.gg/invitecode" },
     # { dribbble = "https://dribbble.com/username" },
-    # { facebook = "https://facebook.com/username" },
+    { facebook = "https://facebook.com/richonrailsblog" },
     { flickr = "https://www.flickr.com/people/shotbyrich/" },
     # { foursquare = "https://foursquare.com/username" },
     # { github = "https://github.com/username" },
