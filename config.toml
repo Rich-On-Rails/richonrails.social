@@ -31,6 +31,7 @@ disableKinds = ["taxonomy", "term"]
     # { gitlab = "https://gitlab.com/username" },
     # { google = "https://www.google.com/" },
      { instagram = "https://instagram.com/richonrails" },
+     { link = { href = "https://pixelfed.social/richonrails", text = "Pixelfed" } },
     # { keybase = "https://keybase.io/username" },
     # { kickstarter = "https://www.kickstarter.com/profile/username" },
     # { lastfm = "https://lastfm.com/user/username" },
